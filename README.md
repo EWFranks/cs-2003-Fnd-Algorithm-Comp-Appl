@@ -1,1 +1,2 @@
-Assignments done for CS-2003 in 2021.
+# cs-2003-Fnd-Algorithm-Comp-Appl
+Assignments done in 2021.
